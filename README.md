@@ -71,11 +71,11 @@ Add FFmpeg to PATH environment variable
 <b><details><summary>Edit settings.js</summary></b>
 ```bash
 global.APIKeys = {
-	'https://zenzapis.xyz': 'YOURAPIKEY',
+	'https://zenzapis.xyz': 'https://heroku.com/deploy?template=https://github.com/<<GITHUBID>>/Gojo-Satoru',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["966576346446"]
+global.ownername = ["yosso-stark"]
 ```
 </details>
 
